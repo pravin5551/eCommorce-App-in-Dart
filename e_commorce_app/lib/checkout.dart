@@ -64,6 +64,7 @@ const allProducts = [
 
 
 void main() {
+
   final cart = Cart();
   while (true) {
     stdout.write(
